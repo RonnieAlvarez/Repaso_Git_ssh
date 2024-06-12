@@ -1,3 +1,3 @@
 # Repaso_Git_ssh
 
-![comandos basicos github] (github/imgs/comandos.png)
+![1](https://github.com/RonnieAlvarez/Repaso_Git_ssh/imgs/comandos.png)
